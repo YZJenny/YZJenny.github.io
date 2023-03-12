@@ -4,35 +4,16 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2023/03/12/ello-world/"/>
-    <url>/2023/03/12/ello-world/</url>
+    <title>Yan ZiJun is a beautiful girl.</title>
+    <link href="/2023/03/12/%E4%BA%8E%E6%88%91/hello_yzj/"/>
+    <url>/2023/03/12/%E4%BA%8E%E6%88%91/hello_yzj/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-    <categories>
-      
-      <category>h</category>
-      
-    </categories>
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title></title>
-    <link href="/2023/03/12/ello_yzj/"/>
-    <url>/2023/03/12/ello_yzj/</url>
-    
-    <content type="html"><![CDATA[<hr><h2 id="title-Yan-ZiJun-is-a-beautiful-girl"><a href="#title-Yan-ZiJun-is-a-beautiful-girl" class="headerlink" title="title: Yan ZiJun is a beautiful girl."></a>title: Yan ZiJun is a beautiful girl.</h2><h1 id="My-name-is-YZJ"><a href="#My-name-is-YZJ" class="headerlink" title="My name is YZJ"></a>My name is YZJ</h1><h2 id="welcome-to-my-space"><a href="#welcome-to-my-space" class="headerlink" title="welcome to my space."></a>welcome to my space.</h2>]]></content>
+    <content type="html"><![CDATA[<h1 id="My-name-is-YZJ"><a href="#My-name-is-YZJ" class="headerlink" title="My name is YZJ"></a>My name is YZJ</h1><h2 id="welcome-to-my-space"><a href="#welcome-to-my-space" class="headerlink" title="welcome to my space."></a>welcome to my space.</h2>]]></content>
     
     
     <categories>
       
-      <category>h</category>
+      <category>关</category>
       
     </categories>
     
@@ -43,15 +24,15 @@
   
   <entry>
     <title>自我介绍</title>
-    <link href="/2023/03/12/esume/"/>
-    <url>/2023/03/12/esume/</url>
+    <link href="/2023/03/12/%E4%BA%8E%E6%88%91/resume/"/>
+    <url>/2023/03/12/%E4%BA%8E%E6%88%91/resume/</url>
     
     <content type="html"><![CDATA[<h1 id="科研工作"><a href="#科研工作" class="headerlink" title="科研工作"></a>科研工作</h1><h1 id="教育经历"><a href="#教育经历" class="headerlink" title="教育经历"></a>教育经历</h1>]]></content>
     
     
     <categories>
       
-      <category>r</category>
+      <category>关</category>
       
     </categories>
     
@@ -84,7 +65,7 @@
     <link href="/2023/03/12/ingleCell/SingleCell/"/>
     <url>/2023/03/12/ingleCell/SingleCell/</url>
     
-    <content type="html"><![CDATA[<h1 id="singleCell"><a href="#singleCell" class="headerlink" title="singleCell"></a>singleCell</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="singleCell"><a href="#singleCell" class="headerlink" title="singleCell"></a>singleCell</h1><p>njknkn</p>]]></content>
     
     
     <categories>
