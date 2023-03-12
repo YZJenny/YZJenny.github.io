@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a7da4ebf5c48c67e",
+        "id": "d60adb920fb0d462",
         "type": "tabs",
         "children": [
           {
-            "id": "e192f0eaf4fbb9c3",
+            "id": "ce96997e95df5918",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "source/about/index.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
