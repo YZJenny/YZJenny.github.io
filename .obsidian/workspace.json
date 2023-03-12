@@ -42,18 +42,18 @@
             }
           },
           {
-            "id": "7f66a5e7aa108fc9",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
             "id": "e438e4fded13b7f1",
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0db1fdb8c8f44594",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
               "state": {}
             }
           },
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,7 +161,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "e192f0eaf4fbb9c3",
+  "active": "e438e4fded13b7f1",
   "lastOpenFiles": [
     "source/about/index.md",
     "source/_obsidian/TemPlater.md",
