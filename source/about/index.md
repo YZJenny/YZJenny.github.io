@@ -1,15 +1,8 @@
 ---
-title: about
-layout: about
-date: 2023-03-12 17:39:39
----
----
-title: {{title}}
-date: {{date}}
-categories: <%tp.file.folder()%>
+title: index
+date: 2023-03-12
 tags: []
 ---
-
 
 
 

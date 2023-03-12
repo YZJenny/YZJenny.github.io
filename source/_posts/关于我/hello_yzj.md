@@ -1,5 +1,3 @@
-
-
 ---
 title: Yan ZiJun is a beautiful girl.
 ---

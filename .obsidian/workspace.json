@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/SingleCell/1.md",
+                "file": "source/_posts/SingleCell/SingleCell.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,14 @@
             }
           },
           {
+            "id": "e438e4fded13b7f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "46fddfc3eb24184b",
             "type": "leaf",
             "state": {
@@ -78,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/SingleCell/1.md",
+                "file": "source/_posts/SingleCell/SingleCell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/SingleCell/1.md",
+                "file": "source/_posts/SingleCell/SingleCell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,20 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/SingleCell/1.md"
+                "file": "source/_posts/SingleCell/SingleCell.md"
               }
-            }
-          },
-          {
-            "id": "e438e4fded13b7f1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,18 +169,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c524900ea369433",
+  "active": "e438e4fded13b7f1",
   "lastOpenFiles": [
-    "source/_obsidian/TemPlater.md",
-    "source/_posts/SingleCell/1.md",
-    "source/_posts/SingleCell/SingleCell.md",
-    "source/_posts/resume.md",
     "source/about/index.md",
+    "source/_posts/hello-world.md",
+    "source/_posts/关于我/hello_yzj.md",
+    "source/_posts/关于我",
+    "source/_posts/关于我/resume.md",
+    "source/_posts/SingleCell/SingleCell.md",
+    "source/_posts/SingleCell/1.md",
+    "source/_obsidian/TemPlater.md",
     "source/_obsidian/Post_Template.md",
     "source/a.md",
     "未命名.canvas",
-    "source/_posts/hello_yzj.md",
-    "source/_posts/hello-world.md",
     "source/_obsidian/Post_Template",
     "source/_obsidian",
     "source/about"
