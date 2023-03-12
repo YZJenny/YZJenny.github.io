@@ -1,6 +1,13 @@
 ---
-title: 自我介绍
+title: resume
+date: 2023-03-12
+categories: 
+	- 关于我
+tags: []
 ---
+
+
+
 
 # 科研工作
 
