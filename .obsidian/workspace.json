@@ -39,18 +39,18 @@
             }
           },
           {
-            "id": "e438e4fded13b7f1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "0db1fdb8c8f44594",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e438e4fded13b7f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           },
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,6 +160,7 @@
   },
   "active": "e438e4fded13b7f1",
   "lastOpenFiles": [
+    "themes/fluid_19/_config.yml~",
     "source/about/index.md",
     "source/_obsidian/TemPlater.md",
     "source/_posts/SingleCell/1.md",
