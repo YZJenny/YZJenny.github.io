@@ -7,7 +7,7 @@ tags: []
 sticky: 100
 ---
 
-
+![](../../imgs/Pasted%20image%2020230405143053.png)
 # ZiJun Yan
 **上海交通大学医学院-儿童医院，研究实习员**
 
