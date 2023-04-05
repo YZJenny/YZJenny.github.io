@@ -1,9 +1,10 @@
 ---
-title: 关于我
+title: ZiJun Yan
 date: 2023-03-12
 categories: 
 	- 关于我
 tags: []
+sticky: 100
 ---
 
 
