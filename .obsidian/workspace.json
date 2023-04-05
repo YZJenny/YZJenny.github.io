@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/关于我/ZiJun Yan.md",
+                "file": "source/about/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/关于我/ZiJun Yan.md",
+                "file": "source/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/关于我/ZiJun Yan.md",
+                "file": "source/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/关于我/ZiJun Yan.md"
+                "file": "source/about/index.md"
               }
             }
           }
@@ -166,10 +166,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "ce96997e95df5918",
+  "active": "e438e4fded13b7f1",
   "lastOpenFiles": [
-    "source/_posts/SingleCell/SingleCell.md",
     "source/_posts/关于我/ZiJun Yan.md",
+    "source/_posts/SingleCell/SingleCell.md",
     "source/_posts/SingleCell/RNA.md",
     "source/_posts/关于我/hello_yzj.md",
     "source/_obsidian/TemPlater.md",
