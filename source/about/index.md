@@ -6,7 +6,7 @@ tags: []
 ---
 
 # ZiJun Yan
-上海交通大学医学院-儿童医院，研究实习员
+**上海交通大学医学院-儿童医院，研究实习员**
 
 # 主要研究
 
@@ -26,5 +26,5 @@ tags: []
 
 -   地址: **中国上海市普陀区泸定路355号**
     
--  邮箱： **yanzijun@shchidren.com.cn**
+-  邮箱： **yanzijun@shchildren.com.cn**
 
